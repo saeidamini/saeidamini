@@ -1,4 +1,4 @@
-### Hi there ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
+### Hi there :)
 
 I'm Saeid Amini
 
